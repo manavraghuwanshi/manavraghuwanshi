@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sonu (Manav) Raghuwanshi 👋
 
 ### About Me
-I’m the **Founder & CEO** of **[PieCodes Pvt. Ltd.](#)**, a leading software development agency specializing in delivering **high-quality, scalable, and innovative solutions** for businesses across **Finance, E-commerce, SaaS, Hospitals, and Enterprise Applications**. With **8+ years of experience**, my team and I are passionate about solving complex problems and building applications that drive business growth and enhance user experiences.
+I’m the ** CTO ** at **[PieCodes Pvt. Ltd.](#)**, a leading software development agency specializing in delivering **high-quality, scalable, and innovative solutions** for businesses across **Finance, E-commerce, SaaS, Hospitals, and Enterprise Applications**. With **8+ years of experience**, my team and I are passionate about solving complex problems and building applications that drive business growth and enhance user experiences.
 
 🔹 **Expert in:** Full-Stack Development, Frontend Development, Backend Development, Mobile App Developemnt, APIs Development, Data Visualization, CRM Solutions, SEO, Cross Plateform Solutions & Performance Optimization. 
 🔹 **Industry Experience:** Finance, E-commerce, SaaS, Hospitality, Health Care and Enterprise Applications  
